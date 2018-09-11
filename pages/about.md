@@ -1,1 +1,1 @@
-I am currently a student of ME Software Systems at the Birla Institute of Technology and Science, Pilani. 
+I am currently a student of ME Software Systems at Birla Institute of Technology and Science, Pilani. 
