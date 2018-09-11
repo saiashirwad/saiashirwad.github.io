@@ -1,4 +1,8 @@
+My attempt at trying to maintain a web presence.
+
 [about me](pages/about)
+------
+
 
 ### Some of my notes of courses I am taking currently
 ------
